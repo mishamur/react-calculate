@@ -1,0 +1,15 @@
+button{
+    background-color: antiquewhite;
+    margin-right: 0.5rem;
+    border-radius: 20%;
+}
+
+input{
+    border-radius: 5px;
+}
+
+.container{
+    background-color: bisque;
+    width: 150px;
+    border-radius: 10%;
+}
